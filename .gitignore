@@ -1,0 +1,7 @@
+.vscode
+*.exe
+exe.c
+*.dat
+*.in
+*.txt
+tempCodeRunnerFile.c
